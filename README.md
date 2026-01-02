@@ -19,9 +19,9 @@ Finally, we deploy the model as an interactive **Streamlit app** where users can
 ---
 
 ## 📂 Project Structure
-├── main.py               # Streamlit app
+├── main.py               # Streamlit app       
 ├── Simple_RNN_Model_Training_using_IMDB_Dataset.ipynb             # Model training script
-├── Embedding_the_text.ipynb        # Preprocessing functions
-├── requirements.txt     # Dependencies
-├── Predict.ipynb     # Dependencies
+├── Embedding_the_text.ipynb        # Preprocessing functions      
+├── requirements.txt     # Dependencies      
+├── Predict.ipynb     # Dependencies    
 
